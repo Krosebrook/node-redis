@@ -12,6 +12,6 @@
     "redis-local": "file:../packages/client",
     "redis-v3": "npm:redis@3",
     "redis-v4": "npm:redis@4",
-    "yargs": "17.7.1"
+    "yargs": "17.7.2"
   }
 }
